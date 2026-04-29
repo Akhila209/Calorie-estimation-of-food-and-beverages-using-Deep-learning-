@@ -1,0 +1,2 @@
+# Calorie-estimation-of-food-and-beverages-using-Deep-learning-
+The project titled “Calorie Estimation of Food and Beverages Using Deep Learning” focuses on developing an intelligent, automated, and user-friendly system to enhance dietary monitoring and promote healthier lifestyle choices. The primary objective of this work is to eliminate the need for manual calorie calculation by leveraging deep learning.
